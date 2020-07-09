@@ -8,7 +8,7 @@ We are interested in understanding the behavior of many users across multiple OS
 
 * Qingyuan Gong, Yang Chen, Xinlei He, Yu Xiao, Pan Hui, Xin Wang, Xiaoming Fu. Cross-Site Prediction on Social Influence for Cold-Start Users in Online Social Networks. To appear: ACM Transactions on the Web (TWEB). (DOI: 10.1145/3409108)
 
-* Qingyuan Gong, Yang Chen, Jiyao Hu, Qiang Cao, Pan Hui, Xin Wang. Understanding Cross-site Linking in Online Social Networks. ACM Transactions on the Web (TWEB), 12(4):25:1-25:29.
+* Qingyuan Gong, Yang Chen, Jiyao Hu, Qiang Cao, Pan Hui, Xin Wang. Understanding Cross-site Linking in Online Social Networks. ACM Transactions on the Web (TWEB), 2018, 12(4):25:1-25:29.
 
 
 ## Datasets
